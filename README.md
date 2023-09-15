@@ -27,11 +27,11 @@ come with `beamer` to get an idea of which elements can be changed.
 ## Why `stork`?
 Till Landau named his color themes after flying animals. I wanted to follow his
 example. The symbol of the Max Planck Society is the owl, but I was trying to
-find something more specific our institute. My first idea was "seagull" but
-sadly that was already taken. Then I though about demography's themes mortality,
-fertility, and migration. Mortality seemed a bit morbid as an inspiration and
-everyone knows that babies are delivered by storks, so `stork` it is. Also,
-there is the [Rostocker Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch),
+find something more specific to our institute. My first idea was "seagull" but
+sadly that was already taken. Then I thought about demography's themes
+mortality, fertility, and migration. Mortality seemed a bit morbid as an
+inspiration and everyone knows that babies are delivered by storks, so `stork`.
+Also, there is the [Rostocker Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 which adds another link to Rostock and to migration too.
 
 ## What about the logo?
